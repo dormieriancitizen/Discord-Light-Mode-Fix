@@ -1,0 +1,48 @@
+.hoverBarButton_f84418:has(.emoji[data-type="emoji"]) {
+    display: none !important;
+}
+
+.bar_c38106 {
+    /* display: none !important; */
+}
+
+.content_c48ade {
+    /* height: 100% !important; */
+}
+
+.base_c48ade {
+    grid-template-rows: [top] 4px [titleBarEnd] 4px [noticeEnd] 1fr [end] !important;
+}
+
+.guildSeparator__252b6 {
+    background-color: #CCCDD3 !important;
+    height: 1.5px !important;
+}
+
+.wrapper__6e9f8:not(.selected__6e9f8) {
+    border-radius: 50%;
+    overflow: hidden;
+    transition: border-radius 0.1s ease-in-out;
+}
+
+wrapper__6e9f8 .selected__6e9f8 {
+    border-radius: 0%;
+    overflow: hidden;
+}
+
+.visual-refresh, .visual-refresh.theme-light, .theme-light .visual-refresh {
+    --border-faint: #F0F3F5;
+    --border-normal: #ebecf2;
+    --border-subtle: #E2E5E8;
+    --input-border: transparent;
+    --app-border-frame: transparent;
+    --background-mod-subtle: #F1F3F5;
+    --background-surface-high: #EAEDEF;
+    --bg-base-tertiary: #E2E5E8;
+    --chat-background-default: #EAEDEF !important;
+    --background-base-low: #EAEDEF !important;
+}
+
+/* .visual-refresh .attachButton__0923f {
+    padding: var(--space-12) 16px !important;
+} */
