@@ -11,7 +11,7 @@
 }
 
 .base_c48ade {
-    grid-template-rows: [top] 2px [titleBarEnd] 2px [noticeEnd] 1fr [end] !important;
+    grid-template-rows: [top] 1px [titleBarEnd] 1px [noticeEnd] 1fr [end] !important;
 }
 
 .guildSeparator__252b6 {
@@ -30,7 +30,7 @@ wrapper__6e9f8 .selected__6e9f8 {
     overflow: hidden;
 }
 
-.visual-refresh, .visual-refresh.theme-light, .theme-light .visual-refresh {
+/* .visual-refresh, .visual-refresh.theme-light, .theme-light .visual-refresh {
     --border-faint: #F0F3F5;
     --border-normal: #ebecf2;
     --border-subtle: #E2E5E8;
@@ -41,7 +41,7 @@ wrapper__6e9f8 .selected__6e9f8 {
     --bg-base-tertiary: #E2E5E8;
     --chat-background-default: #EAEDEF !important;
     --background-base-low: #EAEDEF !important;
-}
+} */
 
 /* .visual-refresh .attachButton__0923f {
     padding: var(--space-12) 16px !important;
