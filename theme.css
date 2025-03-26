@@ -11,7 +11,7 @@
 }
 
 .base_c48ade {
-    grid-template-rows: [top] 4px [titleBarEnd] 4px [noticeEnd] 1fr [end] !important;
+    grid-template-rows: [top] 2px [titleBarEnd] 2px [noticeEnd] 1fr [end] !important;
 }
 
 .guildSeparator__252b6 {
