@@ -1,0 +1,161 @@
+.hoverBarButton_f84418:has(.emoji[data-type="emoji"]) {
+    display: none !important;
+}
+
+.base_c48ade {
+    grid-template-rows: [top] 0px [titleBarEnd] 0px [noticeEnd] 1fr [end] !important;
+}
+
+.wrapper__6e9f8:not(.selected__6e9f8) {
+    border-radius: 50%;
+    overflow: hidden;
+    transition: border-radius 0.25s ease-in-out;
+}
+
+.chat_f75fb0 {
+    border-top: none !important;
+}
+
+.visual-refresh .sidebarListRounded_c48ade {
+    border-radius: 0px !important;
+    border: none !important;
+}
+
+/* message box */
+.channelTextArea_f75fb0 {
+    /* Remove border on textbox */
+    border: none !important;
+}
+
+/* reduce padding between buttons */
+.visual-refresh .buttons__74017 {
+    gap: 4px !important;
+}
+
+/* code blocks */
+code {
+    border: 1px solid var(--border-subtle) !important;
+}
+
+/* add padding on top of servers list */
+.scroller_ef3116 {
+    padding-top: 8px !important;
+}
+
+.wrapper_ef3116 {
+    margin-bottom: 0px !important;
+}
+
+/* members list */
+.container_c8ffbb {
+    border: none !important;
+}
+
+/* .members_c8ffbb {
+    background-color: var(--background-base-lowest) !important;
+} */
+
+/* User descriptor */
+.panels_c48ade {
+    left: 0px !important;
+    bottom: 0px !important;
+    width: 100% !important;
+    border-radius: 0px !important;
+    border: transparent 0px !important;
+    padding-top: none;
+}
+
+.title_f75fb0 {
+    border-bottom-width: 2px !important;
+}
+
+.header_f37cb1 {
+    border-bottom-width: 2px !important;
+}.hoverBarButton_f84418:has(.emoji[data-type="emoji"]) {
+    display: none !important;
+}
+
+.base_c48ade {
+    grid-template-rows: [top] 0px [titleBarEnd] 0px [noticeEnd] 1fr [end] !important;
+}
+
+.guildSeparator__252b6 {
+    height: 2px !important;
+}
+
+.wrapper__6e9f8:not(.selected__6e9f8) {
+    border-radius: 50%;
+    overflow: hidden;
+    transition: border-radius 0.25s ease-in-out;
+}
+
+.chat_f75fb0 {
+    border-top: none !important;
+}
+
+.visual-refresh .sidebarListRounded_c48ade {
+    border-radius: 0px !important;
+    border: none !important;
+}
+
+/* message box */
+.channelTextArea_f75fb0 {
+    /* Remove border on textbox */
+    border: none !important;
+}
+
+/* reduce padding between buttons */
+.visual-refresh .buttons__74017 {
+    gap: 4px !important;
+}
+
+/* code blocks */
+code {
+    border: 1px solid var(--border-subtle) !important;
+}
+
+/* add padding on top of servers list */
+.scroller_ef3116 {
+    padding-top: 8px !important;
+}
+
+.wrapper_ef3116 {
+    margin-bottom: 0px !important;
+}
+
+/* members list */
+.container_c8ffbb {
+    border: none !important;
+}
+
+/* .members_c8ffbb {
+    background-color: var(--background-base-lowest) !important;
+} */
+
+/* User descriptor */
+.panels_c48ade {
+    left: 0px !important;
+    bottom: 0px !important;
+    width: 100% !important;
+    border-radius: 0px !important;
+    border: transparent 0px !important;
+    padding-top: none;
+}
+
+.visual-refresh {
+    --custom-channel-members-bg: transparent;
+    --input-border: transparent;
+}
+
+/* .visual-refresh .attachButton__0923f {
+    padding: var(--space-12) 16px !important;
+} */
+
+.visual-refresh {
+    --custom-channel-members-bg: transparent;
+    --input-border: transparent;
+}
+
+/* .visual-refresh .attachButton__0923f {
+    padding: var(--space-12) 16px !important;
+} */
