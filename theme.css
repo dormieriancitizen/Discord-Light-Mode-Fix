@@ -108,6 +108,14 @@ div.scroller__36d07::-webkit-scrollbar-track {
     background-color: var(--bg-base-tertiary) !important;
 }
 
+.title_f75fb0 {
+    border-bottom-width: 2px !important;
+}
+
+.header_f37cb1 {
+    border-bottom-width: 2px !important;
+}
+
 ::-webkit-scrollbar-thumb {
   background-color: var(--spoiler-hidden-background) !important;
 }
