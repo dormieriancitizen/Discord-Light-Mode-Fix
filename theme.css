@@ -1,3 +1,10 @@
+.visual-refresh .embedFull__623de {
+    background-color: oklab(0.963876 -0.000228494 -0.00284719) !important;
+    border-width: 0px !important;
+    border-left-width: 4px !important;
+    border-radius: 4px !important;
+}
+
 .hoverBarButton_f84418:has(.emoji[data-type="emoji"]) {
     display: none !important;
 }
