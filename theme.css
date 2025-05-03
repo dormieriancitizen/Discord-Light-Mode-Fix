@@ -163,11 +163,11 @@ body {
     --green-4: hsl(var(--green-hue), var(--green-sat), 57%);
     --green-5: hsl(var(--green-hue), var(--green-sat), 52%);
 
-    --blue-1: hsl(var(--blue-hue), var(--blue-sat), 57%);
-    --blue-2: hsl(var(--blue-hue), var(--blue-sat), 52%);
-    --blue-3: hsl(var(--blue-hue), var(--blue-sat), 52%);
-    --blue-4: hsl(var(--blue-hue), var(--blue-sat), 47%);
-    --blue-5: hsl(var(--blue-hue), var(--blue-sat), 42%);
+    --blue-1: hsl(var(--blue-hue), var(--blue-sat), 67%);
+    --blue-2: hsl(var(--blue-hue), var(--blue-sat), 62%);
+    --blue-3: hsl(var(--blue-hue), var(--blue-sat), 62%);
+    --blue-4: hsl(var(--blue-hue), var(--blue-sat), 57%);
+    --blue-5: hsl(var(--blue-hue), var(--blue-sat), 52%);
 
     --yellow-1: hsl(var(--yellow-hue), var(--yellow-sat), 73%);
     --yellow-2: hsl(var(--yellow-hue), var(--yellow-sat), 68%);
