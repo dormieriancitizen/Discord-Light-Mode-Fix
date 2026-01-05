@@ -126,9 +126,9 @@ body {
     /* surface1 dark buttons when clicked */
     --bg-2: var(--surface0);
     /* surface0 dark buttons */
-    --bg-3: var(--base);
+    --bg-3: var(--mantle);
     /* mantle spacing, secondary elements */
-    --bg-4: var(--mantle);
+    --bg-4: var(--base);
     /* base main background color */
     --hover: color-mix(in srgb,
             var(--surface2),
